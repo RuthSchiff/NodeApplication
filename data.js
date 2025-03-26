@@ -209,7 +209,5 @@ const data = [
         "updatedAt": "2025-03-19T15:07:22.63369Z"
       }
     }
-  ];
-  
-  module.exports = data;
+  ];module.exports = data;
   
